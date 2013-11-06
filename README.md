@@ -1,4 +1,4 @@
-dy_local
+Nerd Dinner Tutorial
 ========
 
-my local repo for DY
+My first ASP.NET Web app
